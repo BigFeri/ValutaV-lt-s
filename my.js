@@ -6,7 +6,7 @@ createApp({
       ValutaAtvaltasok: [],
       valutak: [
         { name: "USA dollar", szimbolum: "$", arujegy: "USD" },
-        { name: "Magyar Forint", szimbolum: "Ft", arujegy: "HUf" },
+        { name: "Magyar Forint", szimbolum: "Ft", arujegy: "HUF" },
         { name: "Euro", szimbolum: "€", arujegy: "EUR" },
         { name: "Orosz Rubel", szimbolum: "₽", arujegy: "RUB" },
       ],
